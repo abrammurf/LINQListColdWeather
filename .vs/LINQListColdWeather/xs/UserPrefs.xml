@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5B46B4E7-4784-4EA9-93CC-3B0356CC3F6E}|Default">
+  <MonoDevelop.Ide.ItemProperties.LINQListColdWeather PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQListColdWeather/Program.cs">
+    <Files>
+      <File FileName="LINQListColdWeather/Program.cs" Line="35" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LINQListColdWeather" expanded="True">
+            <Node name="LINQListColdWeather" expanded="True">
+              <Node name="Weather.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

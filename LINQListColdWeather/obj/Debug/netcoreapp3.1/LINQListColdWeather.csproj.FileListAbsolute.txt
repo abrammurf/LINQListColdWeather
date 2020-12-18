@@ -1,0 +1,12 @@
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/obj/Debug/netcoreapp3.1/LINQListColdWeather.csprojAssemblyReference.cache
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/obj/Debug/netcoreapp3.1/LINQListColdWeather.AssemblyInfoInputs.cache
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/obj/Debug/netcoreapp3.1/LINQListColdWeather.AssemblyInfo.cs
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/obj/Debug/netcoreapp3.1/LINQListColdWeather.csproj.CoreCompileInputs.cache
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/bin/Debug/netcoreapp3.1/LINQListColdWeather.deps.json
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/bin/Debug/netcoreapp3.1/LINQListColdWeather.runtimeconfig.json
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/bin/Debug/netcoreapp3.1/LINQListColdWeather.runtimeconfig.dev.json
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/bin/Debug/netcoreapp3.1/LINQListColdWeather.dll
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/bin/Debug/netcoreapp3.1/LINQListColdWeather.pdb
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/obj/Debug/netcoreapp3.1/LINQListColdWeather.dll
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/obj/Debug/netcoreapp3.1/LINQListColdWeather.pdb
+/Users/abrammurphy/Projects/LINQListColdWeather/LINQListColdWeather/obj/Debug/netcoreapp3.1/LINQListColdWeather.genruntimeconfig.cache
